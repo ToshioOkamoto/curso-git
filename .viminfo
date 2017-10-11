@@ -1,0 +1,74 @@
+# Este arquivo viminfo foi gerado pelo Vim 8.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/help
+
+# Histórico de Linha de comando (mais recente primeiro):
+:q
+|2,0,1507747003,,"q"
+:w
+|2,0,1507747000,,"w"
+
+# Histórico de Expressões de busca (mais recente primeiro):
+?/help
+|2,1,1507746616,47,"help"
+?/?
+|2,1,1507746612,47,"?"
+?/s
+|2,1,1507746600,47,"s"
+?/q
+|2,1,1507746593,47,"q"
+?/w
+|2,1,1507746589,47,"w"
+
+# Histórico de Expressão (mais recente primeiro):
+
+# Histórico de Linhas de entrada (mais recente primeiro):
+
+# Histórico de Debug Line (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  6  0  ~/index.html
+|4,48,6,0,1507747003,"~/index.html"
+'1  3  4  ~/index.html
+|4,49,3,4,1507746855,"~/index.html"
+'2  3  4  ~/index.html
+|4,50,3,4,1507746855,"~/index.html"
+
+# Lista de saltos (mais recente primeiro):
+-'  6  0  ~/index.html
+|4,39,6,0,1507747003,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1507746955,"~/index.html"
+-'  3  4  ~/index.html
+|4,39,3,4,1507746855,"~/index.html"
+-'  3  4  ~/index.html
+|4,39,3,4,1507746855,"~/index.html"
+-'  6  0  ~/index.html
+|4,39,6,0,1507746600,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1507746497,"~/index.html"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/index.html
+	*	1507747000	0
+	"	6	0
+	^	6	0
+	.	6	0
+	+	1	6
+	+	5	7
+	+	3	7
+	+	6	0
